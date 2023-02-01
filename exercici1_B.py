@@ -1,5 +1,5 @@
 
-def funcion():
+def funcion3():
     while True:
         edad = input("¿Que edad tienes?")
         if edad.isnumeric():
@@ -8,4 +8,4 @@ def funcion():
     year = 2023
     a = year - edad
     print("Este es tu año de nacimiento:", a)
-funcion()
+funcion3()
